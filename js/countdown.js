@@ -1,4 +1,4 @@
-const weddingDate = new Date("March 20, 2027 19:00:00").getTime();
+const weddingDate = new Date("November 28, 2026 17:00:00").getTime();
 
 const daysElement = document.getElementById("days");
 const hoursElement = document.getElementById("hours");
